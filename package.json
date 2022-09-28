@@ -1,0 +1,27 @@
+{
+  "name": "demo-width-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaiQuocTam/demo-with-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThaiQuocTam/demo-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/ThaiQuocTam/demo-with-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
